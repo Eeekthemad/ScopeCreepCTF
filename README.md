@@ -29,11 +29,12 @@ DURGE is the first successful prototype of O.C.T.O.P.U.S, a secret government pr
 * DOSing/DDOSing challenges are out of scope unless otherwise specified.
 * Include an example solution in the README of your challenge for easier testing.
 * Flag format should be SC{flag}
+  
 
 **Points**
 100 - Easy | 200 - Difficult | Hard - 500 | Nuts - 1000
 
-Hints: | Easy - 5, 10, 25 | Difficult - 25, 50 | Hard - 200 | N\A - Nuts
+Hints (If you think they'll need them): | Easy - 5, 10, 25 | Difficult - 25, 50 | Hard - 200 | N\A - Nuts
 
 **GUIDELINES FOR THE FIND & FIX**
 * This is intended to be similar to CyberPatriot or CyberForce
