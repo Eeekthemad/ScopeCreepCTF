@@ -1,1 +1,1 @@
-Trivia or anything that doesn't fit into the categories above. Bonus points if it's about SUU
+Trivia or anything that doesn't fit into the other categories. Bonus points if it's about SUU :)
