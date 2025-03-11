@@ -7,6 +7,7 @@ Turner Bushell and McKay Fawcett's Capstone Project: ScopeCreep
 ScopeCreep is the capstone project that will be taking place on April 19th on SUU Campus. This repo will hold the files so I can find them :)
 This is my first time ever organizing something like this, so I will always take feedback! 
 I do not have an expectation of the amount of challenges, but It'll need to be able to hold off a bunch of high schoolers for 6-7 hours.
+Please direct any questions to @Eeekthemad on Discord.
 
 
 --
