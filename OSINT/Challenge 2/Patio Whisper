@@ -1,0 +1,17 @@
+Challenge Rating: Easy
+Points: 100
+
+Description:
+
+    After digging through an aide’s phone, we uncovered a photo — no text, no geotags, just a snapshot of where an O.C.T.O.P.U.S. executive was spotted. Intelligence believes this location is key to understanding the next D.U.R.G.E. operation.
+
+    Find this exact location. Once confirmed, submit the name of the restaurant where this meeting took place.
+
+📎 Attachment: exec_meeting_photo.jpg
+
+Flag Format:
+flag{Restaurant_Name}
+(Replace spaces with underscores)
+
+Answer:
+flag{Barcelona_Wine_Bar}
