@@ -1,0 +1,24 @@
+Challenge Rating: Easy
+Points: 100
+
+Description:
+
+    Our analysts believe the clandestine organization O.C.T.O.P.U.S. began forming in secret meetings as early as 2022. Intel intercepted from a high-ranking executive’s girlfriend’s phone led us to this peculiar stained glass image. We suspect this artwork was photographed at the very location of one of their first gatherings.
+
+    Your mission is to analyze the image and determine where it was taken.
+
+    OSINT teams believe a visual match might be possible—search carefully for any identifying artistic or architectural features. You only need the name of the place as your answer.
+
+    Hint: The figure in the stained glass and the ornate Renaissance-style decoration might help you narrow it down.
+    Hint 2: 
+
+Attachment:
+[Image File: stained_glass.png]
+
+Flag Format: flag{Place_Name_With_Underscores}
+Example: flag{Eiffel_Tower}
+
+Solution:
+The stained glass window is located in Peleș Castle, Romania—a 19th-century Neo-Renaissance castle in the Carpathian Mountains known for its elaborate decor and stained glass.
+
+Flag: flag{Peles_Castle}
