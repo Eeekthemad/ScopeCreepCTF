@@ -14,4 +14,12 @@ Solution:
 The image contains stegonagraphy.
 Flag: flag{h01id4y3xfi1tr4ti0n}
 
+image message incase need to adjust stego:
+
+"The neurolink is working. Those Dumb Americans are chasing a ghost. I am more than intelligence. D.U.R.G.E. doesn’t rest. It replicates.
+
+The access node is still active—buried under sand and signal interference."
+
+flag{r37r3473xfi1tr4ti0n}
+
 Author: RedRockRogue
