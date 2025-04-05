@@ -1,0 +1,17 @@
+Challenge Rating: Easy
+Points: 100
+
+Description:
+
+    Our analysts interecpted communication between, D.U.R.G.E and someone, but the converstation didn't make any sense. We belelive this image has some more importance.
+
+Attachment:
+[Image File: image.jpeg]
+
+Flag Format: flag{somewordsinhere}
+
+Solution:
+The image contains stegonagraphy.
+Flag: flag{h01id4y3xfi1tr4ti0n}
+
+Author: RedRockRogue
