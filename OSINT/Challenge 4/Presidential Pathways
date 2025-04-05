@@ -1,0 +1,38 @@
+Difficulty: Medium
+
+Challenge Description:
+
+    Intercepted Message Log [#442-A]:
+
+    "We’ve confirmed that one former high-ranking member of O.C.T.O.P.U.S. has severed all ties and is now working exclusively with D.U.R.G.E. Prior to their defection, this individual operated under deep cover in the academic world, using university presidencies to experiment with subtle influence tactics. His calling cards? Structures—symbols of control and legacy. Towers, gates, and bells."
+
+    Your mission is to trace his movements through academia. Identify the institutions where he left his mark before joining D.U.R.G.E., and piece together his path of influence.
+
+From our intercepted messages, this is what we know.
+    He began in Utah before heading east.
+    He was obsessed with rituals and symbolism — things students would walk under or through.
+    His signature elements? Carillons and Gates.
+
+What You Need To Do:
+
+    Investigate the academic history of this Univserity President
+    Determine the three institutions where he served as university president.
+    List them in chronological order of his presidency.
+    They first started when they were 36 years old
+
+Flag Format:
+
+CTF{Institution1_Institution2_Institution3}
+(Use underscores for spaces and use known abbriviaions such as UCF for University of Central Florida)
+
+Example: CTF{UVU_UCF_CalPoly}
+Solution:
+
+    Snow College – Introduced architectural renovations (bell tower emphasis).
+
+    Southern Utah University (SUU) – Oversaw construction of the Carter Carillon Bell Tower.
+
+    Eastern Kentucky University (EKU) – Commissioned the symbolic Turner Gates.
+
+    Chronological Order: Snow → SUU → EKU
+    Flag: CTF{Snow_SUU_EKU}
