@@ -1,0 +1,24 @@
+Challenge Name: 4 Words to Save the World
+
+Difficulty: Hard
+Points: 250
+Challenge Description:
+
+    Thanks to your previous efforts, we were able to capture Dmitri Petrovich Volkov. After a tense interrogation, we learned that D.U.R.G.E. plans to unleash a devastating attack on the world using Neurolink technology. However, to activate this catastrophic event, Volkov needed to enter a three-word passphrase.
+
+    Before we could extract the full passphrase, Volkov died under mysterious circumstances, leaving us with only a photo as our clue.
+
+    We need your help figuring out the three words related to this location and the name of this place tied to this global threat.
+
+Flag Format:
+
+Flag{three.position.words.location_name}
+(Use underscores for spaces)
+
+Solution:
+
+Find the location using google, and then use what3words to figure out the 3 words of the octopus.
+
+Flag{recover.nutty.visions.Xiamen_Undersea_World}
+
+Author redrockrogue
