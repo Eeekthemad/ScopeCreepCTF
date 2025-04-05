@@ -1,0 +1,30 @@
+Challenge Rating: Medium
+Points: 150
+
+Description:
+
+    Well done finding the meeting location. We now believe a burner device was left behind to relay updates back to O.C.T.O.P.U.S.
+
+    We need to intercept any remaining pings — and for that, we’ll need to identify the nearest registered cell tower to that location. Use public datasets or mapping tools to find the nearest cell tower's registered ID #.
+Barcelona Wine Bar – Philadelphia, PA
+
+What to Submit:
+The FCC Registration Number of the closest registered tower.
+
+Flag Format:
+flag{RegistrationNumber}
+
+Flag:
+flag{1279946}
+
+
+HINTS: 
+Suggested tools:
+
+    https://www.antennasearch.com
+
+    https://www.cellmapper.net
+
+    https://opencellid.org
+
+Owned by: American Towers LLC
