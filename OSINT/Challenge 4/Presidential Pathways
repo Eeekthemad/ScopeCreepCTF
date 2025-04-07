@@ -9,6 +9,7 @@ Challenge Description:
     Your mission is to trace his movements through academia. Identify the institutions where he left his mark before joining D.U.R.G.E., and piece together his path of influence.
 
 From our intercepted messages, this is what we know.
+    He first started when He were 36 years old
     He began in Utah before heading east.
     He was obsessed with rituals and symbolism — things students would walk under or through.
     His signature elements? Carillons and Gates.
@@ -18,14 +19,14 @@ What You Need To Do:
     Investigate the academic history of this Univserity President
     Determine the three institutions where he served as university president.
     List them in chronological order of his presidency.
-    They first started when they were 36 years old
+    
 
 Flag Format:
 
 CTF{Institution1_Institution2_Institution3}
 (Use underscores for spaces and use known abbriviaions such as UCF for University of Central Florida)
 
-Example: CTF{UVU_UCF_CalPoly}
+Example: flag{UVU_UCF_CalPoly}
 Solution:
 
     Snow College – Introduced architectural renovations (bell tower emphasis).
