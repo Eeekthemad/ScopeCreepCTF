@@ -2,7 +2,7 @@ Challenge Rating: Hard
 Points: 200
 
 Description:
-We’ve recently uncovered some critical intel regarding the former high-ranking member of O.C.T.O.P.U.S. you investigated. His real name is Dmitri Ppetrovich Volkov. He was the lead scientist for D.U.R.G.E.
+We’ve recently uncovered some critical intel regarding the former high-ranking member of O.C.T.O.P.U.S. you investigated. His real name is Dmitri Pselkovich Volkov. He was the lead scientist for D.U.R.G.E.
 
 Due to his recent fallout with O.C.T.O.P.U.S., Volkov has fled the country. We have reason to believe he is meeting up with the D.U.R.G.E. project to continue his work elsewhere. We need you to find out where he has fled too, so we can capture him before he meets with D.U.R.G.E
 
@@ -14,7 +14,7 @@ Flag:
 flag{Iceland}
 
 Solve:
-If you look up Dmitri Petrovich Volkov you'll find his linkedin profile. If you look through his profile you'll find his email.
+If you look up Dmitri Pselkovich Volkov you'll find his linkedin profile. If you look through his profile you'll find his email.
 Sending him an email, you'll get a vacation email back telling you where he is going. The email is in Russian, and will need to be translated to english to understand.
 
 Author: RedRockRogue
