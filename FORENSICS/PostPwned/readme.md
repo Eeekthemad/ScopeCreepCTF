@@ -6,4 +6,10 @@ Easy : 100 | Medium : 150 | Hard : 300
 
 Easy - Aquire the {R1_B2_G3} flag from a simple decode
 Medium - Use flag from Easy Chal into StegOnline to aquire the flag from the background image
-Hard - Something hard
+Hard - Hidden file in steg, steg file is "Corrupted", Inside has a zipped file, extracted from that is flag.
+
+POSTPWN 1
+
+POSTPWN 2
+
+POSTPWN 3
