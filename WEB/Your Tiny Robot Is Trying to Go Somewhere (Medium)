@@ -1,0 +1,12 @@
+D.U.R.G.E. has hidden something.
+Find out where the robots go.
+
+[link](https://scopecreepctf.com/web1/we95v3)
+
+
+SCCTF{B1GH6R0B0T_DURGE}
+
+
+Solve: players need to got the address above then to https://scopecreepctf.com/web1/we95v3/Robots.txt
+
+This will lead them to /tppl.html which they will need to put into a URL for the flag. https://scopecreepctf.com/web1/we95v3/tppl.html
