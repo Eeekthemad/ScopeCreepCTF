@@ -1,0 +1,11 @@
+Challenge rating: easy
+
+Descripton: D.U.R.G.E. is testing secure communication. We foudn a way to intercept their transmission, but we need agents who can decode the messages sent. We need to make sure that your team is the up for the misson. If you can crack this, you’re ready for the deeper layers of the network.
+
+This message was pulled from a low-level relay node. Intelligence believes it’s a test transmission — a kind of trial balloon sent to dormant agents to verify their loyalty. The signal repeats the same message every few seconds — always at the same interval. Analysts clocked it at exactly every 15 seconds.
+
+message:   HRRIU{pvtci_l4z3_je_iw3_1cz_w4h_heg34s}
+
+Solve: Use a CAESAR CIPHER Shift 15 to solve 
+
+Flag: SCCTF{agent_w4k3_up_th3_1nk_h4s_spr34d}
